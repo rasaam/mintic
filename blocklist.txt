@@ -1,2 +1,1 @@
-0.0.0.0 tele-latino.com
-0.0.0.0 www.tele-latino.com
+tele-latino.com
