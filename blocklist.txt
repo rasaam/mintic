@@ -1,6 +1,7 @@
 tele-latino.com
 tvexpresslatmx.com
-mx54.hostgator.mx 
+mx54.hostgator.mx
+tele-latino.com
 162.241.2.35
 172.67.69.212 
 104.26.5.75 
